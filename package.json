@@ -1,7 +1,7 @@
 {
-  "name": "ZUSYCO-MD",
+  "name": "Jaykbot-MD",
   "version": "1.5.0",
-  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
+  "description": "Simple WhatsApp bot created by DarkMakerofc (mrjayk) for Easy Your Works on Whatsapp.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,7 +13,7 @@
     "automation",
     "nodejs"
   ],
-  "author": "DarkMakerofc (mrnima)",
+  "author": "DarkMakerofc (mrjayk)",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
